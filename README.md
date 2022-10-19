@@ -11,5 +11,6 @@ The data set that has used in this project has taken from the Kaggle . "This dat
 
 
 ![image](https://user-images.githubusercontent.com/99366942/196711441-fdbf6949-d025-4ddf-bc9b-0176b4f44362.png)
-![image](https://user-images.githubusercontent.com/99366942/196711604-75dc5248-9a96-4678-b7f2-017872c3f701.png)
+
+
 
