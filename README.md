@@ -10,3 +10,6 @@ In this project, the objective is to predict whether the person has Diabetes or 
 The data set that has used in this project has taken from the Kaggle . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes or not, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage." and used a simple random forest classifier.
 
 
+![image](https://user-images.githubusercontent.com/99366942/196711441-fdbf6949-d025-4ddf-bc9b-0176b4f44362.png)
+![image](https://user-images.githubusercontent.com/99366942/196711604-75dc5248-9a96-4678-b7f2-017872c3f701.png)
+
