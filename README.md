@@ -1,4 +1,4 @@
-# The Early Prediction of Diabetes
+# The Early Prediction of Diabetes![image](https://user-images.githubusercontent.com/99366942/196695905-277c3466-0054-4773-809f-481cacd42dbc.png)
 
 Distributed and Scalable Data Engineering, Mid Term Project
 
