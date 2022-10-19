@@ -11,4 +11,13 @@ The data set that has used in this project has taken from the Kaggle . "This dat
 
 
   ![image](https://user-images.githubusercontent.com/99366942/196713073-9d66bfb0-726b-4f0b-a269-158005085207.png)
+  
+  ![image](https://user-images.githubusercontent.com/99366942/196713325-4ede6d13-9de0-44b1-a7d6-4947ba4aff11.png)
+  
+  ![image](https://user-images.githubusercontent.com/99366942/196713396-f89c4fd2-9d78-405f-b951-67512e9b1d97.png)
+  
+  ![image](https://user-images.githubusercontent.com/99366942/196713510-a1161dcf-7952-42eb-a969-725bdaae6dce.png)
+
+  
+
 
