@@ -3,9 +3,9 @@ from flask import Flask, render_template, request
 import pickle
 import numpy as np
 
-# Load the Support Vector Machine model
+# Load the Random Forest CLassifier model
 filename = 'diabetes-prediction-rfc-model.pkl'
-s = pickle.load(open(filename, 'rb'))
+classifier = pickle.load(open(filename, 'rb'))
 
 app = Flask(__name__)
 
@@ -28,7 +28,7 @@ def predict():
         age = int(request.form['age'])
 
         data = np.array([[preg, glucose, bp, st, insulin, bmi, dpf, age]])
-        my_prediction = s.predict(data)
+        my_prediction = classifier.predict(data)
 
         return render_template('result.html', prediction=my_prediction)
 
